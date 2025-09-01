@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [FixCar](https://github.com/Splasz/FixCar)  
 - 🌱 I’m currently learning:  
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
