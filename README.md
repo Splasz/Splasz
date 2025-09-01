@@ -5,8 +5,6 @@
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 - 👨‍💻 You can find all of my projects on [GitHub](https://github.com/Splasz)  
-- 🎨 My other passion: [ArtStation](https://www.artstation.com/splasz)
-
 ---
 
 ## 🚀 Languages and Technologies I Work With
